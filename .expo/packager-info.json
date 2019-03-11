@@ -1,10 +1,9 @@
 {
+  "expoServerNgrokUrl": "https://m6-krs.anonymous.practice.exp.direct",
+  "packagerNgrokUrl": "https://packager.m6-krs.anonymous.practice.exp.direct",
+  "ngrokPid": 10820,
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 248,
-  "expoServerNgrokUrl": "https://m6-krs.anonymous.practice.exp.direct",
-  "packagerNgrokUrl": "https://packager.m6-krs.anonymous.practice.exp.direct",
-  "ngrokPid": 10496,
-  "webpackServerPort": null
+  "packagerPid": 1752
 }

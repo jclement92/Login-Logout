@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import { TextInput } from 'react-native-gesture-handler';
 
-import { NativeRouter, Route, Link } from 'react-router-native';
+import { NativeRouter, Switch, Route } from 'react-router-native';
 
 export default class App extends React.Component {
   render() {
