@@ -1,6 +1,6 @@
 # Login-Logout
 
-Simple React Native app that mimics login and logout functions. Built with Expo client and react-router-native library.
+This app mimics login and logout functions.
 
 ---
 
