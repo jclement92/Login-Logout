@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Practice",
-    "slug": "Practice",
+    "name": "LoginLogout",
+    "slug": "LoginLogout",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -24,10 +24,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-	  "bundleIdentifier": "com.practice.Practice"
+	  "bundleIdentifier": "com.practice.LoginLogout"
     },
 	"android": {
-      "package": "com.practice.Practice"
+      "package": "com.practice.LoginLogout"
     }
   }
 }
