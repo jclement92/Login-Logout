@@ -2,6 +2,8 @@
 
 This app mimics login and logout functions.
 
+![Login screen](https://github.com/jclement92/Login-Logout/blob/master/Photos/login.png)
+
 ---
 
 ## Using this repo
