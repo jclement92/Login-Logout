@@ -6,12 +6,12 @@ import { NativeRouter, Switch, Route } from 'react-router-native';
 
 export default ({ history }) => (
     <View style={styles.container}>
-    <Text>Login</Text>
-    <TextInput style={styles.input} placeholder=" Username"/>
-    <TextInput style={styles.input} placeholder=" Password" secureTextEntry={true}/>
-    <TouchableOpacity style={styles.submit} onPress={() => history.push("/home")}>
-        <Text style={{color: 'white', fontWeight: 'bold'}}>Login</Text>
-    </TouchableOpacity>
+      <Text>Login</Text>
+      <TextInput style={styles.input} placeholder=" Username"/>
+      <TextInput style={styles.input} placeholder=" Password" secureTextEntry={true}/>
+      <TouchableOpacity style={styles.submit} onPress={() => history.push("/home")}>
+          <Text style={{color: 'white', fontWeight: 'bold'}}>Login</Text>
+      </TouchableOpacity>
     </View>
 );
 
